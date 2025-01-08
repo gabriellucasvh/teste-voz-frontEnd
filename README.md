@@ -3,7 +3,7 @@
 
 Esta documentação descreve as tecnologias, bibliotecas e ferramentas utilizadas durante o desenvolvimento do teste de frontend para a empresa VOZ Educa. O teste envolveu a criação de uma aplicação frontend com foco em usabilidade, performance, e boas práticas de desenvolvimento.
 
-Prévia: [https://teste-voz-front-end-re5b.vercel.app/](https://teste-voz-front-end-re5b.vercel.app/)
+Prévia: [https://teste-voz-front-end.vercel.app/](https://teste-voz-front-end.vercel.app/)
 
 ## Tecnologias utilizadas
 - **HTML5:** Estruturação da página com uso semântico e acessível.
