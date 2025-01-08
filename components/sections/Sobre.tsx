@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-{/*Aqui está o centúdo da seção sobre o mustang*/}
+{/*Aqui está o conteúdo da seção sobre o mustang*/}
 
 const Sobre = () => {
     return (
